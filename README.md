@@ -1,5 +1,5 @@
 # Abhinab Mondal
-Welcome to my GitHub Profile.
+Welcome to my GitHub Profile. Hello, Myself Abhinab Mondal, Post Graduate MBA Student, from Dr. BC Roy Engineering College, Durgapur, West Bengal, India.
 
 ## 🛠 Tech Stack  
 
